@@ -9,3 +9,4 @@
 - ⚡ Fun fact: I LOVE ANIME;)
 
 [![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=sameerahmed56)](https://github.com/anuraghazra/github-readme-stats)
+[![Sameer's github language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerahmed56&langs_count=5&theme=tokyonight)]()
