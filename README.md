@@ -15,7 +15,7 @@
 <a href="https://twitter.com/__sameerahmed__">
   <img align="left" alt="Sameer Ahmed | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/sameer-ahmed-3bb432133/">
+<a href="https://www.linkedin.com/in/sameer-ahmed56/">
   <img align="left" alt="Sameer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
