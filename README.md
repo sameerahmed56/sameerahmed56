@@ -7,3 +7,5 @@
 - 💬 Ask me about React-Native.
 - 📫 How to reach me: mail me at samahmed78656@gmail.com or dm me on twitter.
 - ⚡ Fun fact: I LOVE ANIME;)
+
+[![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=sameerahmed56)](https://github.com/anuraghazra/github-readme-stats)
