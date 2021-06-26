@@ -8,5 +8,7 @@
 - 📫 How to reach me: mail me at samahmed78656@gmail.com or dm me on twitter.
 - ⚡ Fun fact: I LOVE ANIME;)
 
-[![Sameer's github stats](https://github-readme-stats.vercel.app/api?username=sameerahmed56)](https://github.com/anuraghazra/github-readme-stats)
-[![Sameer's github language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerahmed56&langs_count=5&theme=tokyonight)]()
+[![Sameer's github Stats](https://github-readme-stats.vercel.app/api/?username=sameerahmed56&count_private=true&theme=tokyonight&showicons=true)]()
+
+
+[![Sameer's github language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerahmed56&langs_count=3&theme=tokyonight)]()
