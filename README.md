@@ -26,7 +26,7 @@
 
 <br />
 
-Hi, I'm Sameer Ahmed, a passionate self-taught React Native and Front-End developer from India. I love creating and developing softwares. I am curious to know how things actualy work. 
+Hey, I'm Sameer Ahmed, a passionate self-taught React Native and Front-End developer from India. I love creating anything that's unique and helpfull for anyone. I am curious to know how things actualy work. I try to learn somwthing new everyday so.
 - ⚡ Fun fact: I LOVE ANIME;)
 
 
