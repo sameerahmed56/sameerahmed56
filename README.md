@@ -26,7 +26,7 @@
 
 <br />
 
-Hi, I'm Sameer Ahmed, a passionate self-taught App and Front-End developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Sameer Ahmed, a passionate self-taught React Native and Front-End developer from India. I love creating and developing softwares. I am curious to know how things actualy work. 
 - ⚡ Fun fact: I LOVE ANIME;)
 
 
