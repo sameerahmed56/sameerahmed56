@@ -58,10 +58,11 @@ Hey, I'm Sameer Ahmed, a passionate self-taught React Native and Front-End devel
 
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sameerahmed56&theme=dark)](https://git.io/streak-stats)
 
 📈 **My GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sameerahmed56&count_private=true&show_icons=true&theme=gotham" alt="sameerahmed56" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sameerahmed56&count_private=true&show_icons=true&theme=gotham" alt="sameerahmed56" />
 
 
 
