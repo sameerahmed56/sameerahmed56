@@ -12,7 +12,7 @@
 <a href="https://discord.gg/xdZSvRph">
   <img align="left" alt="Sameer's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/__sameerahmed__">
+<a href="https://twitter.com/sameer_ahmdd">
   <img align="left" alt="Sameer Ahmed | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sameer-ahmed56/">
@@ -31,7 +31,7 @@ Hey, I'm Sameer Ahmed, a passionate self-taught React Native and Front-End devel
 
 
 - 💼 So, [let's connect](mailto:samahmed78656@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help in things i know;
 
 **Languages and Tools:**  
 
@@ -48,8 +48,9 @@ Hey, I'm Sameer Ahmed, a passionate self-taught React Native and Front-End devel
 
 📊 **This Is How I Spent My Time On:**
 
-🏆  App Development   
-⏳   Anime   
+🏆  App Development
+🏆  Web Development
+⏳  Anime   
 🌸  Learning New Stuff
 <!-- other stuff -->
 <!-- other stuff -->
