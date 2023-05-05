@@ -21,9 +21,6 @@
 <!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a> -->
-
-![](https://visitor-badge.glitch.me/badge?page_id=sameerahmed56.sameerahmed56)
-
 <br />
 
 Hey, I'm Sameer Ahmed, a passionate self-taught developer. I love creating anything that's unique and helpfull for anyone. I am curious to know how things actualy work. I try to learn something new everyday.
