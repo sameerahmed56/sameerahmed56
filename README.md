@@ -26,7 +26,7 @@
 
 <br />
 
-Hey, I'm Sameer Ahmed, a passionate self-taught React Native and Front-End developer from India. I love creating anything that's unique and helpfull for anyone. I am curious to know how things actualy work. I try to learn something new everyday.
+Hey, I'm Sameer Ahmed, a passionate self-taught developer. I love creating anything that's unique and helpfull for anyone. I am curious to know how things actualy work. I try to learn something new everyday.
 - ⚡ Fun fact: I LOVE ANIME;)
 
 
@@ -44,19 +44,6 @@ Hey, I'm Sameer Ahmed, a passionate self-taught React Native and Front-End devel
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
-
-
-📊 **This Is How I Spent My Time On:**
-
-🏆  App Development
-🏆  Web Development
-⏳  Anime   
-🌸  Learning New Stuff
-<!-- other stuff -->
-<!-- other stuff -->
-<!-- other stuff -->
-
-
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sameerahmed56&theme=dark)](https://git.io/streak-stats) -->
