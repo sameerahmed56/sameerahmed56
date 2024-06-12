@@ -1,43 +1,52 @@
+<div align="center">
+    <h1>Welcome to my GitHub!</h1>
+    <i>
+        I'm Sameer Ahmed
+    </i>
+</div>
 
+### Languages
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
+![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
+### Technologies & Frameworks
+![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
+![NestJs](https://img.shields.io/badge/nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 
-<!-- [![Sameer's github language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerahmed56&langs_count=3&theme=tokyonight)]() -->
+### Databases
+![Firestore](https://img.shields.io/badge/firestore-black?style=for-the-badge&logo=google-cloud)
+![Postgresql](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
 
+### OS
+![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=Ubuntu)
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 
-<!--  -->
-<!--  -->
-<!--  -->
-<!--  -->
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/xdZSvRph">
-  <img align="left" alt="Sameer's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/sameer_ahmdd">
-  <img align="left" alt="Sameer Ahmed | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sameer-ahmed56/">
-  <img align="left" alt="Sameer's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
-<br />
+### Tools and Apps
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
 
-Hey, I'm Sameer Ahmed, a passionate self-taught developer. I love creating anything that's unique and helpfull for anyone. I am curious to know how things actualy work. I try to learn something new everyday.
-- ⚡ Fun fact: I LOVE ANIME;)
+<Details>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameerahmed56&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerahmed56&hide_border=true&card_width=338&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sameerahmed56&theme=transparent" />
+</p>
+</Details>
 
+<!--<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sameerahmed56&show_icons=true&locale=en" alt="sameerahmed56" /></p>-->
 
-- 💼 So, [let's connect](mailto:samahmed78656@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help in things i know;
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sameerahmed56&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
-**Languages and Tools:**  
+<!--<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerahmed56&" alt="sameerahmed56" /></p>-->
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
+<!--<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameerahmed56&show_icons=true&locale=en&layout=compact" alt="sameerahmed56" /></p>>-->
