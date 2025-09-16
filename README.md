@@ -77,6 +77,7 @@ Here's a snapshot of the tools and technologies I use regularly:
     </td>
   </tr>
 </table>
+
 ---
 
 ### ✍️ Latest Blog Posts
