@@ -77,6 +77,11 @@ Here's a snapshot of the tools and technologies I use regularly:
     </td>
   </tr>
 </table>
+---
+
+### ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -86,16 +91,8 @@ Here's a snapshot of the tools and technologies I use regularly:
   <img src="https://github-readme-stats.vercel.app/api?username=sameerahmed56&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true" alt="Sameer's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerahmed56&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=sameerahmed56&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameerahmed56&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
-
-### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
