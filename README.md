@@ -82,6 +82,11 @@ Here's a snapshot of the tools and technologies I use regularly:
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Surprisingly Deep Foundations of Idempotency](https://sameerahmed56.medium.com/the-surprisingly-deep-foundations-of-idempotency-793765bd9c64?source=rss-e4526effdd7c------2)
+- [Home Sweet localhost: Your Computer’s Private Little Island](https://sameerahmed56.medium.com/home-sweet-localhost-your-computers-private-little-island-ec208531555f?source=rss-e4526effdd7c------2)
+- [A Developer’s Guide to Hunting and Eliminating Data Duplicates in Django](https://sameerahmed56.medium.com/a-developers-guide-to-hunting-and-eliminating-data-duplicates-in-django-23b7e59059ee?source=rss-e4526effdd7c------2)
+- [The Swarm of Availability: A Deep Dive into Cassandra’s AP Architecture](https://sameerahmed56.medium.com/the-swarm-of-availability-a-deep-dive-into-cassandras-ap-architecture-c67d46720736?source=rss-e4526effdd7c------2)
+- [Why PostgreSQL is &lpar;Mostly&rpar; a CA Database](https://sameerahmed56.medium.com/why-postgresql-is-mostly-a-ca-database-57fcc9dd3b88?source=rss-e4526effdd7c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
