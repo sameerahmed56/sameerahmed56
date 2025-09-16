@@ -94,6 +94,8 @@ Here's a snapshot of the tools and technologies I use regularly:
 ---
 
 ### ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
