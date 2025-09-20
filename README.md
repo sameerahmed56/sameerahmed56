@@ -82,11 +82,11 @@ Here's a snapshot of the tools and technologies I use regularly:
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Counting Bloom Filter: Now With a Delete Button &lpar;Mostly&rpar;](https://sameerahmed56.medium.com/the-counting-bloom-filter-now-with-a-delete-button-mostly-2eced04227ae?source=rss-e4526effdd7c------2)
 - [The Bloom Filter: How to Be Probably Right and Definitely Fast](https://sameerahmed56.medium.com/the-bloom-filter-how-to-be-probably-right-and-definitely-fast-3778d5c92f48?source=rss-e4526effdd7c------2)
 - [An Uncomfortably Deep Dive into the Idempotency Key](https://sameerahmed56.medium.com/an-uncomfortably-deep-dive-into-the-idempotency-key-67626c8d3f3d?source=rss-e4526effdd7c------2)
 - [The Surprisingly Deep Foundations of Idempotency](https://sameerahmed56.medium.com/the-surprisingly-deep-foundations-of-idempotency-793765bd9c64?source=rss-e4526effdd7c------2)
 - [Home Sweet localhost: Your Computer’s Private Little Island](https://sameerahmed56.medium.com/home-sweet-localhost-your-computers-private-little-island-ec208531555f?source=rss-e4526effdd7c------2)
-- [A Developer’s Guide to Hunting and Eliminating Data Duplicates in Django](https://sameerahmed56.medium.com/a-developers-guide-to-hunting-and-eliminating-data-duplicates-in-django-23b7e59059ee?source=rss-e4526effdd7c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
