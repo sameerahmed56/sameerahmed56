@@ -82,8 +82,8 @@ Here's a snapshot of the tools and technologies I use regularly:
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Make Better Architectural Decisions](https://blog.stackademic.com/how-i-make-better-architectural-decisions-a83ac30d8b58?source=rss-e4526effdd7c------2)
-- [A Complete Guide to Javascript Dates](https://javascript.plainenglish.io/a-complete-guide-to-javascript-dates-2dd20105c760?source=rss-e4526effdd7c------2)
+- [How I Make Better Architectural Decisions](https://sameerahmed56.medium.com/how-i-make-better-architectural-decisions-a83ac30d8b58?source=rss-e4526effdd7c------2)
+- [A Complete Guide to Javascript Dates](https://sameerahmed56.medium.com/a-complete-guide-to-javascript-dates-2dd20105c760?source=rss-e4526effdd7c------2)
 - [Production Readiness for Idempotent Systems](https://sameerahmed56.medium.com/production-readiness-for-idempotent-systems-d09cb1c47653?source=rss-e4526effdd7c------2)
 - [Idempotency in a Distributed System](https://sameerahmed56.medium.com/idempotency-in-a-distributed-system-df67fbd93b49?source=rss-e4526effdd7c------2)
 - [Implementing Idempotency in a Monolithic System](https://sameerahmed56.medium.com/implementing-idempotency-in-a-monolithic-system-58532d50e42a?source=rss-e4526effdd7c------2)
