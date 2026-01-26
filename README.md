@@ -82,11 +82,11 @@ Here's a snapshot of the tools and technologies I use regularly:
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Evolution- 1.1 vs 2.0 vs 3.0](https://blog.stackademic.com/http-evolution-1-1-vs-2-0-vs-3-0-076277ecf491?source=rss-e4526effdd7c------2)
+- [HTTP Mechanics: Methods, Headers, and Codes](https://blog.stackademic.com/http-mechanics-methods-headers-and-codes-23da48764c2b?source=rss-e4526effdd7c------2)
 - [How I Make Better Architectural Decisions](https://blog.stackademic.com/how-i-make-better-architectural-decisions-a83ac30d8b58?source=rss-e4526effdd7c------2)
 - [A Complete Guide to Javascript Dates](https://javascript.plainenglish.io/a-complete-guide-to-javascript-dates-2dd20105c760?source=rss-e4526effdd7c------2)
 - [Production Readiness for Idempotent Systems](https://sameerahmed56.medium.com/production-readiness-for-idempotent-systems-d09cb1c47653?source=rss-e4526effdd7c------2)
-- [Idempotency in a Distributed System](https://sameerahmed56.medium.com/idempotency-in-a-distributed-system-df67fbd93b49?source=rss-e4526effdd7c------2)
-- [Implementing Idempotency in a Monolithic System](https://sameerahmed56.medium.com/implementing-idempotency-in-a-monolithic-system-58532d50e42a?source=rss-e4526effdd7c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
