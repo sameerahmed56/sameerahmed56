@@ -82,11 +82,11 @@ Here's a snapshot of the tools and technologies I use regularly:
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unpacking Latency, Throughput, and Bandwidth](https://sameerahmed56.medium.com/unpacking-latency-throughput-and-bandwidth-69dd9dc931e0?source=rss-e4526effdd7c------2)
 - [How Connection Pooling Actually Works](https://sameerahmed56.medium.com/how-connection-pooling-actually-works-46014afce5fd?source=rss-e4526effdd7c------2)
 - [Message Queues vs Event Streams: Kafka vs &lpar;RabbitMQ, SQS&rpar;](https://blog.stackademic.com/message-queues-vs-event-streams-or-should-i-say-kafka-vs-rabbitmq-sqs-d1d9ff0f3173?source=rss-e4526effdd7c------2)
 - [HTTP Evolution- 1.1 vs 2.0 vs 3.0](https://blog.stackademic.com/http-evolution-1-1-vs-2-0-vs-3-0-076277ecf491?source=rss-e4526effdd7c------2)
 - [HTTP Mechanics: Methods, Headers, and Codes](https://blog.stackademic.com/http-mechanics-methods-headers-and-codes-23da48764c2b?source=rss-e4526effdd7c------2)
-- [How I Make Better Architectural Decisions](https://blog.stackademic.com/how-i-make-better-architectural-decisions-a83ac30d8b58?source=rss-e4526effdd7c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
