@@ -82,11 +82,11 @@ Here's a snapshot of the tools and technologies I use regularly:
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Physics matter when creating Database Index](https://sameerahmed56.medium.com/why-physics-matter-when-creating-database-index-ecb74f879b5d?source=rss-e4526effdd7c------2)
 - [Why the OSI Model is the Only Way to Debug](https://sameerahmed56.medium.com/why-the-osi-model-is-the-only-way-to-debug-128d1815e52d?source=rss-e4526effdd7c------2)
-- [Unpacking Latency, Throughput, and Bandwidth](https://sameerahmed56.medium.com/unpacking-latency-throughput-and-bandwidth-69dd9dc931e0?source=rss-e4526effdd7c------2)
+- [Unpacking Latency, Throughput, and Bandwidth](https://blog.stackademic.com/unpacking-latency-throughput-and-bandwidth-69dd9dc931e0?source=rss-e4526effdd7c------2)
 - [How Connection Pooling Actually Works](https://blog.stackademic.com/how-connection-pooling-actually-works-46014afce5fd?source=rss-e4526effdd7c------2)
 - [Message Queues vs Event Streams: Kafka vs &lpar;RabbitMQ, SQS&rpar;](https://blog.stackademic.com/message-queues-vs-event-streams-or-should-i-say-kafka-vs-rabbitmq-sqs-d1d9ff0f3173?source=rss-e4526effdd7c------2)
-- [HTTP Evolution- 1.1 vs 2.0 vs 3.0](https://blog.stackademic.com/http-evolution-1-1-vs-2-0-vs-3-0-076277ecf491?source=rss-e4526effdd7c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
