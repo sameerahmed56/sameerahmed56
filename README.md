@@ -82,11 +82,11 @@ Here's a snapshot of the tools and technologies I use regularly:
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Change Data Capture &lpar;CDC&rpar;](https://sameerahmed56.medium.com/change-data-capture-cdc-373a36e1656e?source=rss-e4526effdd7c------2)
 - [Why Physics matter when creating Database Index](https://sameerahmed56.medium.com/why-physics-matter-when-creating-database-index-ecb74f879b5d?source=rss-e4526effdd7c------2)
 - [Why the OSI Model is the Only Way to Debug](https://sameerahmed56.medium.com/why-the-osi-model-is-the-only-way-to-debug-128d1815e52d?source=rss-e4526effdd7c------2)
 - [Unpacking Latency, Throughput, and Bandwidth](https://blog.stackademic.com/unpacking-latency-throughput-and-bandwidth-69dd9dc931e0?source=rss-e4526effdd7c------2)
 - [How Connection Pooling Actually Works](https://blog.stackademic.com/how-connection-pooling-actually-works-46014afce5fd?source=rss-e4526effdd7c------2)
-- [Message Queues vs Event Streams: Kafka vs &lpar;RabbitMQ, SQS&rpar;](https://blog.stackademic.com/message-queues-vs-event-streams-or-should-i-say-kafka-vs-rabbitmq-sqs-d1d9ff0f3173?source=rss-e4526effdd7c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
