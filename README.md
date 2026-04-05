@@ -82,11 +82,11 @@ Here's a snapshot of the tools and technologies I use regularly:
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gossip Protocol: How thousand node communicate](https://sameerahmed56.medium.com/gossip-protocol-how-thousand-node-communicate-463d64803867?source=rss-e4526effdd7c------2)
 - [Change Data Capture &lpar;CDC&rpar;](https://sameerahmed56.medium.com/change-data-capture-cdc-373a36e1656e?source=rss-e4526effdd7c------2)
 - [Why Physics matter when creating Database Index](https://sameerahmed56.medium.com/why-physics-matter-when-creating-database-index-ecb74f879b5d?source=rss-e4526effdd7c------2)
 - [Why the OSI Model is the Only Way to Debug](https://sameerahmed56.medium.com/why-the-osi-model-is-the-only-way-to-debug-128d1815e52d?source=rss-e4526effdd7c------2)
 - [Unpacking Latency, Throughput, and Bandwidth](https://blog.stackademic.com/unpacking-latency-throughput-and-bandwidth-69dd9dc931e0?source=rss-e4526effdd7c------2)
-- [How Connection Pooling Actually Works](https://blog.stackademic.com/how-connection-pooling-actually-works-46014afce5fd?source=rss-e4526effdd7c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
